@@ -1,0 +1,17 @@
+{
+  "name": "StickSpider",
+  "about": "Джойстик для паука",
+  "version": "1.0",
+  "notes": "",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/AlexGyver/StickSpider/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
